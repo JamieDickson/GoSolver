@@ -1,0 +1,12 @@
+The Gui is simple and intuitive to use.
+Below is a list of notes that are important for a new user to understand to facilitate use of the software. 
+
+ 
+
+The Gui version requires that the Next Move button be clicked after every move, this can be frustrating for new users. 
+
+If player 1 is set as an ai player in the Gui version a loaded board will not appear until their move is calculated.   
+
+If the board is high in difficulty and the ai takes a while to solve it then the user could be left looking at an empty board for a long time. 
+
+The program will be unresponsive while the algorithm is calculating, this can lead to a user needing to end the task when wanting to abort a long running high difficulty problem.   
